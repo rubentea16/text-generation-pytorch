@@ -1,2 +1,2 @@
 # text-generation-pytorch
-Project for learning text generation and implement use PyTorch
+Indonesia Speech Text Generation based on President Jokowi's speech
